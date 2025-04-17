@@ -1,0 +1,28 @@
+.center
+{
+    height: 300px;
+    width: 600px;
+    border: solid 2px black;
+}
+.a {
+    height: 100px;
+    width: 600px;
+    background-color: #000000;
+}
+.b {
+    height: 100px;
+    width: 600px;
+    background-color: #ffffff;
+}
+.c{
+    height: 100px;
+    width: 600px;
+    background-color: #009639;
+}
+img{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 8px;
+    left: 0px;
+}
